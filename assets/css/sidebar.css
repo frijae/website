@@ -1,0 +1,109 @@
+/* =========== ABOUT ME SECTION =========== */
+/* Use this to style the about me image */
+.sidebar-my-image {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    height: 200px;
+    width: 200px;
+}
+
+
+/* POSITION SOCIAL MEDIA ICONS */
+.sidebar-social-media{
+    padding: 5px;
+    text-align: center;
+  
+}
+
+/* SOCIAL MEDIA ICONS */
+.sidebar-social-icon{
+      display: inline-block;
+      color: black;
+      padding: 10px;
+      margin: 10px;
+      background-color: white;
+      border-radius: 25px;
+      border-color: black;
+      border: 3px solid black;
+}
+
+
+/* =========== CTS SECTION =========== */
+
+/* CTS Image Logo */
+.sidebar-cts-logo{
+    width: 100%;
+}
+
+/* CTS LINK */
+.sidebar-cts-link{
+    display: block;
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid white;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 8px;
+
+}
+
+
+/* =========== TAGS SECTION =========== */
+
+.sidebar-tag {
+    display: inline-block;
+    padding: 12px;
+    margin: 3px;
+    color: black;
+    background-color: white;
+    border-radius: 50px;
+
+}
+
+
+.sidebar-tag:hover {
+    color: white;
+    background-color: red;
+}
+
+
+.sidebar-my-name{
+    text-align: center;
+    font-size: 19px;
+}
+
+
+
+
+.sidebar-about-me{
+    margin-top: 15px;
+}
+
+.sidebar-my-name{
+    margin-top: 8px;
+}
+
+
+.sidebar-title{
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.sidebar-cts-paragraph{
+    text-align: center;
+}
+
+
+
+
+.intimage{
+    width: 100%;
+}
+
+.sidebar-section{
+   background-color: ;
+}

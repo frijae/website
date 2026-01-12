@@ -1,0 +1,101 @@
+.main-heading{
+	font-size: 35px;
+}
+
+
+.sub-heading{
+	color:  #0771A9;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-top: 15px;
+	margin-bottom: 0px;
+}
+
+.image {
+	height: 250px;
+	width: 250px;
+	margin-right: 10px;
+}
+
+
+.list{
+list-style-type: none;
+margin-top: 4px;
+}
+
+.link{
+	color: gray;
+	text-decoration: none;
+	background-color: lightcyan;
+}
+
+.divlink{
+	text-align: center;
+	background-color: lightcyan;
+}
+
+
+.creative{
+	color: white;
+	margin-top: -15px;
+	font-size: 18px;
+	margin-bottom: 6px;
+}
+
+
+body,
+.wrapper,
+.layout,
+.content,
+.sidebar,
+.sidebar-section,
+.article-block,
+.footer,
+.hero-image {
+    background-color: #111417;
+    color: white;
+}
+
+
+p{
+	margin-top: 5px;
+}
+
+.gif {
+	margin-top: 30px;
+	width: 1167px;
+	height: 200px;
+
+}
+
+.page-title{
+	color: #0771A9;
+}
+
+.image2{
+	border-radius: 50%;
+	margin-top: 40px;
+    height: 225px;
+    width: 225px;
+    margin-right: 4px;
+}
+
+.harry{
+	margin-left: 90px;
+}
+.tyrone{
+	margin-left: 321px;
+	margin-top: -16px;
+}
+.marion{
+	margin-left: 550px;
+	margin-top: -16px;
+}
+.arnold{
+	margin-left: 785px;
+	margin-top: -16px;
+}
+.sara{
+	margin-left: 1030px;
+	margin-top: -16px;
+}

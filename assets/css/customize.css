@@ -1,0 +1,109 @@
+/* ============ CHANGE LOADING ANIMATION 
+1. Download gif here : https://icons8.com/preloaders/
+2. Put the image in assets/images/
+3. Change the name of the image from Preload_2.gif to the name of the gif you want
+============ */
+.se-pre-con {
+    background: url("../images/loading.gif") center no-repeat #fff;
+}
+
+
+
+/* ============ CHANGE BACKGROUND COLOR ============ */
+body {
+    background-color: #111417;
+
+}
+
+/* ============ CHANGE FONT ============ */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+
+
+
+/* ============ CHANGE HEADER BACKGROUND-COLOR ============ */
+
+/* 
+MORE GRADIENT COLORS HERE : https://cssgradient.io/
+*/
+
+/* ============ CHANGE HEADER TO IMAGE INSTEAD OF COLOR ============ */
+
+
+
+.hero-image {
+   background-image: url("../images/banner1.gif"); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 60px;
+}
+
+
+
+
+/* ============ CHANGE HEADER TITLE COLOR ============ */
+
+.hero-text h1 {
+    color: white;
+    font-size: 3rem;
+}
+
+/* ============ CHANGE HEADER BUTTON ============ */
+
+.hero-text a {
+    color: black;
+    background-color: white;
+}
+
+.hero-text a:hover {
+    background-color: black;
+    color: white;
+}
+
+
+/* ============ CHANGE CONTENT BACKGROUND-COLOR ============ */
+.content {
+    background-color: white;
+}
+
+/* ============ CHANGE SIDEBAR COLOR ============ */
+.sidebar {
+    background-color: white;
+}
+
+/* ============ CHANGE SIDEBAR SECTION ============ */
+.sidebar-section {
+    background-color: white;
+}
+
+/* ============ CHANGE FOOTER ============ */
+.footer {
+    /* background-color: hotpink; */
+    background: rgb(63, 234, 251);
+    background: radial-gradient(circle, rgba(63, 234, 251, 1) 0%, rgba(244, 70, 252, 1) 100%);
+}
+
+.sample-artist{
+    margin: auto;
+    display: block;
+    width: 80%;
+    border: 5px solid black;
+    border-radius: 5%;
+}

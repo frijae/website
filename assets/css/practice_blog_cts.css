@@ -1,0 +1,27 @@
+.cts-heading{
+	text-transform: uppercase;
+}
+
+.cts-image{
+	width: 900px;
+	height: 300px;
+}
+
+.cts-subheading{
+	margin-top: 22px;
+	text-transform: uppercase;
+	color: salmon;
+	border-bottom: 1px solid darkgrey;
+	padding-bottom: 8px;
+}
+
+.cts-text-highlight{
+	padding: 24px;
+	border-left: 5px solid #889eae;
+	background-color: whitesmoke;
+	margin-bottom: 10px;
+}
+
+.about-cts-list{
+	padding: 20px;
+}

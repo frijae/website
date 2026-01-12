@@ -1,0 +1,55 @@
+.main-heading{
+	font-size: 35px;
+}
+
+
+.sub-heading{
+	color: darkred;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-top: 15px;
+	margin-bottom: 0px;
+}
+
+.image{
+	height: 250px;
+	width: 250px;
+}
+
+
+.list{
+	list-style-type: none;
+}
+
+.link{
+	color: gray;
+	text-decoration: none;
+	background-color: lightcyan;
+}
+
+.divlink{
+	text-align: center;
+	background-color: lightcyan;
+}
+
+
+.creative{
+	color: darkred;
+	background-color: lightcyan;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+
+body,
+.wrapper,
+.layout,
+.content,
+.sidebar,
+.sidebar-section,
+.article-block,
+.footer,
+.hero-image {
+    background-color: #111417;
+    color: white;
+}

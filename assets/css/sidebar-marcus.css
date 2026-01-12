@@ -1,0 +1,126 @@
+/* All Sidebar Titles */
+.sidebar-title {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: purple;
+}
+
+
+/* ABOUT ME CSS HERE */
+.sidebar-my-image {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    width: 150px;
+    height: 150px;
+}
+
+.sidebar-my-name {
+    text-align: center;
+}
+
+/* ABOUT CTS CSS HERE */
+.sidebar-cts-logo {
+    width: 100%;
+}
+
+.sidebar-cts-text {
+    color: lightcoral;
+    font-size: 20px;
+}
+
+.cts-list {
+    background-color: lightseagreen;
+    padding: 15px;
+}
+
+
+
+
+
+
+.sidebar-cts-block{
+    text-align: center;
+    padding: 10px;
+    background-color: purple;
+}
+
+.sidebar-links {
+    /* background-color: deeppink; */
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.sidebar-album {
+    width: 48%;
+    /* height: 100px; */
+    border-radius: 20px;
+    border: 3px solid black;
+}
+
+.sidebar-tag {
+    display: inline-block;
+    margin: 8px;
+    padding: 8px;
+    border: 2px solid black;
+    /* border-radius: 35px; */
+    background-color: purple;
+}
+
+.sidebar-tag:hover{
+    background-color: hotpink;
+    transform: scale(1.05);
+    box-shadow: 0 0 20px rgba(0,255,255,0.5);
+}
+
+.sidebar-search-field {
+    height: 32px;
+    width: 70%;
+    border-radius: 0px;
+    border: 0px;
+}
+
+.sidebar-search-button {
+    border-radius: 0px;
+    border: 0px;
+    background-color: purple;
+    height: 32px;
+    padding: 0px 12px;
+}
+
+
+/* Toggle */
+/* --- Base Styles --- */
+/* body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #222;
+  transition: background 0.3s, color 0.3s;
+  margin: 0;
+  padding: 40px;
+} */
+
+/* --- Dark Mode --- */
+/* body.dark {
+  background-color: #222;
+  color: #eee;
+} */
+
+/* --- Toggle Button --- */
+  /* Position the toggle button */
+  .theme-toggle {
+    position: fixed;
+    top: 150px;
+    right: 20px;
+    /* background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    transition: transform 0.2s; */
+  }
+  .theme-toggle:hover {
+    /* transform: scale(1.2); */
+  }
+
